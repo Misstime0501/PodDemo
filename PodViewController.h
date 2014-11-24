@@ -6,10 +6,5 @@
 //  Copyright (c) 2014年 HRWY. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
-@interface PodViewController : UIViewController
-
-
-@end
-
+#define PodViewControllerOne        1
+#define PodViewControllerSay        @"Hello!!"
